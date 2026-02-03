@@ -1,0 +1,14 @@
+--- normal1.jpg Analysis ---
+Dimensions: (417, 428)
+Pixels: 178476
+SNR Value: 0.3088
+
+--- tumor1.jpg Analysis ---
+Dimensions: (218, 180)
+Pixels: 39240
+SNR Value: 0.6318
+
+--- tumor2.jpg Analysis ---
+Dimensions: (630, 630)
+Pixels: 396900
+SNR Value: 0.6528
