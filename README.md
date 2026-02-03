@@ -42,7 +42,7 @@ This project is a **Biomedical Informatics** application designed to detect and 
 │   └── main.py
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project summary
-
+```
 ## ⚠️ Disclaimer
 This project is developed for **educational and research purposes** as part of an Information Systems Engineering coursework. It is not intended for clinical diagnosis.
 
