@@ -28,3 +28,23 @@ This project is a **Biomedical Informatics** application designed to detect and 
 5.  **Contour Analysis:** Finds the contours of the segmented area and draws a bounding box around the tumor.
 
 ## 📂 Project Structure
+```text
+├── docs/                     # Project documentation & presentation
+│   ├── Project_Report.docx
+│   └── Presentation.pptx
+├── images/                   # Dataset and visual comparisons
+│   ├── tumor1.jpg
+│   ├── normal1.jpg
+│   └── SNR_Values_Comparison.png
+├── output/                   # Analysis results and logs
+│   └── SNR_Values.txt
+├── src/                      # Source code
+│   └── main.py
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project summary
+
+## ⚠️ Disclaimer
+This project is developed for **educational and research purposes** as part of an Information Systems Engineering coursework. It is not intended for clinical diagnosis.
+
+---
+*Developed by Mete Alper Tekce*
